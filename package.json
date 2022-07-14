@@ -1,0 +1,15 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "tarea de modulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Isaac Urdaneta",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
